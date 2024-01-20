@@ -110,7 +110,7 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "F8 Education Technology Joint Stock Company",
+    company_name: "F8 Educational Technology Corporation ",
     icon: f8,
     iconBg: "#383E56",
     date: "September 2023 - December 2023",
@@ -122,7 +122,7 @@ const experiences = [
   },
   {
     title: "Teaching assistant in web programming",
-    company_name: "F8 Education Technology Joint Stock Company",
+    company_name: "F8 Educational Technology Corporation ",
     icon: f8,
     iconBg: "#E6DEDD",
     date: "July 2023 - Now",
@@ -159,7 +159,7 @@ const projects = [
     ],
     image: trello,
     source_code_link: "https://github.com/anhquan2211/trello-project.git",
-    source_demo: "https://trello-web-gules.vercel.app/",
+    source_demo: "https://trello.anhquandev.com/",
   },
   {
     name: "Mindmap Project",
