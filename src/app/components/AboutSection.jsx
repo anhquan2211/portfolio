@@ -62,7 +62,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full stack web developer with a passion for creating
+            I am a <b>fullstack</b> web developer with a passion for creating
             interactive and responsive web applications. I have experience
             working with HTML, CSS, JavaScript, ReactJs, NextJs, Redux, Node.js,
             Express, PostgreSQL, Sequelize, and Git. I am a quick learner and I
